@@ -34,21 +34,3 @@ modules:
     name: Creating a Pipeline
   5-using-templates:
     name: Using Templates
-  6-scaling-app-instances:
-    name: Scale up and Scale down and Idle the application instances
-  8-using-ssl-app:
-    name: Using SSL in your application
-  9-bluegreen-deployments:
-    name: Blue-Green Deployments
-  10-webhooks:
-    name: SCM Web Hooks
-  11-rollback-applications:
-    name: Rollback Applications
-  12-code-promotion-across-envs:
-    name: Code Promotion across Environments
-  15-adding-springboot-sti-to-catalog:
-    name: Adding Spring Boot S2I Image to the Project Catalog
-  16-adding-database-to-springboot-app:
-    name: Adding a backend database to the SpringBoot application
-  17-dynamic-config-updates-using-configmaps:
-    name: Dynamic configuration updates using ConfigMap
