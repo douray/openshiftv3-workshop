@@ -127,7 +127,9 @@ In the section `Deployment Configuration`, *uncheck* the two auto-deploy
 options * New image is available * Deployment configuration changes
 
 By unchecking these, we are disabling the start of the deployments as we
-want to control those using pipeline. image::pipeline1.jpeg[image]
+want to control those using pipeline.
+
+image::pipeline1.jpeg[image]
 
 Now scroll down and click on the `Create` button.
 
@@ -137,9 +139,11 @@ configuration, imagestream, service and route) but won't start a build.
 *Step 5:* Start pipeline
 
 Now click on the `Start Pipeline` button to start the pipeline.
+
 image::pipeline2.jpeg[image]
 
 Notice the pipeline starts and `build` and `deploy` stages are executed.
+
 image::pipeline3.jpeg[image]
 
 Click on the `View log` link for the pipeline. It'll take you to Jenkins
