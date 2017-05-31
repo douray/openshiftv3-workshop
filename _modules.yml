@@ -32,5 +32,5 @@ modules:
     name: Deploy a .Net application using .Net builder image
   19-Creating-a-Pipeline:
     name: Creating a Pipeline
-  5-using-templates:
-    name: Using Templates
+  21-dotnet-and-mysql-using-template:
+    name: Create .Net and MYSQL Application Using Template
