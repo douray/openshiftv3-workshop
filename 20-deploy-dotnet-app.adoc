@@ -37,7 +37,7 @@ this lab it is `dotnetcore-11-rhel7:latest`).
 Fill the fields with the following information:
 
 ....
-Name: ks
+Name: dotnet11
 Git Repository URL: https://github.com/redhat-developer/s2i-dotnetcore-ex
 Branch: dotnetcore-1.1
 ....
