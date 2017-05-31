@@ -34,3 +34,5 @@ modules:
     name: Creating a Pipeline
   21-dotnet-and-mysql-using-template:
     name: Create .Net and MYSQL Application Using Template
+  7-binary-deployment-war-file:
+    name: Binary Deployment WAR file
