@@ -61,6 +61,13 @@ The .Net application built with .Net core 1.1 builder image.
 
 image::dotnet_mysql_final.png[image]
 
+Information for login:
+....
+username: Administrator@test.com"
+password: YouShouldChangeThisPassword1
+....
+
+
 
 In this lab exercise you have seen a complete web application deployed
 using OpenShift templates. We are able to deploy application via templates.
