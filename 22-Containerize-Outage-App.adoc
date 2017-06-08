@@ -52,7 +52,7 @@ $ oc new-build --image-stream=jboss-webserver30-tomcat8-openshift --binary=true 
 Start the build by uploading the contents of your `deployments`
 directory. Make sure you are in the parent folder where you created the
 `deployments` folder inside previously. Remember the war file is in the
-`deployments` folder. The jboss-ews builder image knows to copy the
+`deployments` folder. The tomcat builder image knows to copy the
 contents of the `deployments` folder to the `deployments` directory and
 then builds the application image.
 
