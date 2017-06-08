@@ -5,10 +5,10 @@ config:
       value: openshift
     - name: CONSOLE_ADDRESS
       desc: HTTP address of the OpenShift console
-      value: https://master.ocp.tauil.org
+      value: https://tusltosm01.unisource.corp:8443
     - name: APPS_ADDRESS
       desc: HTTP address suffix of apps deployed on OpenShift
-      value: apps.ocp.tauil.org
+      value: cloud.unisource.corp
     - name: GET_STARTED_CLI_URL
       desc: URL to documentation to configure CLI
       value: https://docs.openshift.com/container-platform/latest/cli_reference/get_started_cli.html
@@ -58,3 +58,5 @@ modules:
     name: Changing code on the fly
   19-Creating-a-Pipeline:
     name: Creating a Pipeline
+  22-Containerize-Outage-App:
+    name: Containerize Outage application
